@@ -9,6 +9,7 @@ Minecraft PE plugin for creating 3d Floating Text
 
 
 <h2>Конфиг</h2>
+
 config.yml
 ```
 #Floating Text plugin
