@@ -8,7 +8,8 @@ Minecraft PE plugin for creating 3d Floating Text
 <i>/ftext [текст] - создать 3D текст (Permission: floatingtext.create)</i>
 
 
-Config:
+<h2>Конфиг</h2>
+config.yml
 ```
 #Floating Text plugin
 #made by Fleynaro v1.0
@@ -20,7 +21,6 @@ general: {}
 texts:
   text1:
     pos: 0.0,0.0,0.0
-    text: "Привет, дорогой друг!"
-  
+    text: "Привет, дорогой друг!" 
 #text ....
 ```
