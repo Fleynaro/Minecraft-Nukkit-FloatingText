@@ -1,0 +1,18 @@
+name: FloatingText
+main: ru.fleynaro.floatingtext.Plugin
+version: "1.0"
+author: fleynaro
+api: ["1.0.0"]
+description: The plugin lets create 3D floating text
+
+commands:
+  ftext:
+    description: Write to the config floating text position
+    aliases: ["ftext"]
+    usage: "/ftext"
+    permission: floatingtext.create
+
+permissions:
+  floatingtext.create:
+    description: ""
+    default: op
